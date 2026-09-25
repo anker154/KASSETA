@@ -1,0 +1,2 @@
+# KASSETA
+pallet-kasseta
